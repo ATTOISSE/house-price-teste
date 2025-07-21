@@ -1,0 +1,28 @@
+# Data manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Logging
+structlog
+
+# Testing
+pytest
+pytest-cov
+httpx
+
+# Development
+jupyter
+matplotlib
+seaborn
+
+# Environment
+python-dotenv
