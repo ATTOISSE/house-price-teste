@@ -23,6 +23,14 @@ httpx
 jupyter
 matplotlib
 seaborn
+scipy
+kaggle
 
 # Environment
 python-dotenv
+
+# Enhanced ML
+xgboost
+
+# Configuration and utilities  
+pydantic-settings
