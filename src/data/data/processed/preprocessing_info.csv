@@ -1,0 +1,2 @@
+removed_outliers,removed_variance_features,removed_correlation_features,selected_features,final_shape
+True,"['waterfront', 'view', 'country']",[],"['date', 'bedrooms', 'bathrooms', 'sqft_living', 'sqft_lot', 'floors', 'condition', 'sqft_above', 'sqft_basement', 'yr_built', 'yr_renovated', 'street', 'city', 'statezip']","(3395, 14)"
